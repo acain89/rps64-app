@@ -10,3 +10,5 @@ server/firebasekey.json
 
 # Build
 dist/
+
+.vercel
